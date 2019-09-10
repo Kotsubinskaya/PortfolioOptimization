@@ -21,5 +21,5 @@
 Источники данных:
  - Акции, торгуемые на Московской Биржи. Папка csv
  
- [scr1]:(https://github.com/Kotsubinskaya/PortfolioOptimization/blob/master/scr1.png)
+ [scr1]: https://github.com/Kotsubinskaya/PortfolioOptimization/blob/master/scr1.png
 
